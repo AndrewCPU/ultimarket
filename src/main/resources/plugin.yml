@@ -1,0 +1,5 @@
+name: Ultimarket
+version: '${version}'
+main: com.plugmen.ultimarket.Ultimarket
+api-version: 1.19
+prefix: Ultimarket
